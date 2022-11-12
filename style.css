@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.web-hero{
+    border-bottom: 5px solid ;
+}
+.web-feature{
+    border-bottom: 5px solid;
+}
+@media (max-width: 640px) {
+    .web-hero{
+        margin-top: 100px;
+    }
+}
+.web-info{
+    border-bottom: 5px solid;
+}
+footer{
+    border-top: 5px solid;
+}
